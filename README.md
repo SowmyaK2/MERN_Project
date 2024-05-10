@@ -1,2 +1,2 @@
-email: sowmyabhavani245@gmail.com
-password: Zxcvb78#
+email: sow@gmail.com
+password: 123456
